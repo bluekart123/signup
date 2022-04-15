@@ -1,0 +1,38 @@
+ul{
+    text-align: center;
+    color: white;
+    list-style-type: none;
+}
+
+.signupcontain{
+    box-sizing: border-box;
+ text-align: center;
+  padding: 0px;
+   
+}
+.signup form{
+    margin: 20px;
+}
+.signup{
+    display: inline-block;
+    list-style-type: none;
+}
+
+body  {
+    background-color: black;
+    background-image: url("andrew-ridley-jR4Zf-riEjI-unsplash.jpg");
+    margin-top: 200px;
+}
+.btn{
+    display: inline-block;
+    background: #4963d6;
+    color: white;
+    padding: 8px 30px;
+    margin: 30px 0;
+    border-radius: 30px;
+    transition: background 0.5s;
+}
+.btn:hover{
+    background: #cc4141;
+}
+    
